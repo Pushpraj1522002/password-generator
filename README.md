@@ -15,7 +15,7 @@ A simple and responsive password generator built using React. This app allows us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/Pushpraj1522002/password-generator.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -51,6 +51,6 @@ Then host the `build` folder on any static hosting provider like Vercel, Netlify
 [Pushpraj Desai](https://github.com/Pushpraj1522002)
 
 ## Courtesy
-Inspired by [Chai Aur Code](https://youtu.be/AFDYnd-XPa8?si=o0aEU-qMw0lHWN0W)
+Inspired by [Chai Aur Code](http://www.youtube.com/@chaiaurcode)
 
 
